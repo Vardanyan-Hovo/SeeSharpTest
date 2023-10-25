@@ -1,0 +1,39 @@
+Question 1: C# Basics (5 points)
+
+    Write a C# program that prints the first 10 Fibonacci numbers. The Fibonacci sequence starts with 0 and 1, and each subsequent number is the sum of the two preceding ones.
+
+Question 2: Variables and Data Types (5 points)
+
+    You have a string variable named inputStr with the value "42". Convert it to an integer and store it in a variable named resultInt. Print the value of resultInt.
+
+Question 3: Conditional Statements (5 points)
+
+    Write a C# program that takes an integer as input and prints "Positive" if the number is positive, "Negative" if it's negative, and "Zero" if it's zero.
+
+Question 4: Loops (5 points)
+
+    Write a C# program that uses a while loop to print the numbers from 1 to 10.
+
+Question 5: Arrays (5 points)
+
+    Declare an integer array with the values 2, 4, 6, 8, and 10. Write a C# function that takes this array as input and returns the product of all elements.
+
+Question 6: Classes and Objects (10 points)
+
+    Create a class named Rectangle with properties for Length and Width. Implement a method to calculate and return the area of the rectangle. Instantiate an object of the Rectangle class with a length of 5 and a width of 3. Calculate and print the area.
+
+Question 7: Exception Handling (5 points)
+
+    Write a C# program that demonstrates exception handling. Try to divide 10 by 0 and catch the exception. Print an error message in the catch block.
+
+Question 8: .NET Framework (5 points)
+
+    Explain what the .NET Framework is and how it relates to C# development.
+
+Question 9: Visual Studio (5 points)
+
+    Describe the role of Visual Studio in C# development and explain how to create a new C# project in Visual Studio.
+
+Question 10: Debugging (5 points)
+
+    Explain the importance of debugging in software development and describe how you would set a breakpoint and inspect variables during debugging in Visual Studio.
